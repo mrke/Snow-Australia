@@ -6,7 +6,7 @@
 library(raster)
 library(ncdf)
 
-bioreg<-'11'
+bioreg<-'12'
 
 setwd('landscape grids/')
 
